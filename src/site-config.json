@@ -1,0 +1,548 @@
+{
+  "business": {
+    "name": "Green Matters Landscaping",
+    "phone": "+16155930904",
+    "category": "landscaping company",
+    "city": "Nashville",
+    "state": "TN"
+  },
+  "design": {
+    "preset": {
+      "id": "roofing-heritage-craft",
+      "categoryGroup": "roofing",
+      "name": "Heritage Craft",
+      "recipeFile": "roofing/heritage-craft.astro",
+      "colors": {
+        "primary": "#3D2E1F",
+        "primaryDark": "#251A10",
+        "primaryLight": "#D4C5B0",
+        "secondary": "#5C4A3A",
+        "accent": "#6B5335",
+        "background": "#F5F2ED",
+        "backgroundAlt": "#5C4A3A",
+        "surface": "#EDEAE4",
+        "text": "#1A1510",
+        "textLight": "#4A4540",
+        "textOnDark": "#F5F2ED",
+        "border": "#D5CEBC"
+      },
+      "typography": {
+        "headingFont": "Playfair Display",
+        "headingWeight": "600",
+        "bodyFont": "Libre Franklin",
+        "bodyWeight": "400",
+        "headingStyle": "normal",
+        "scale": "1.25"
+      },
+      "shape": {
+        "borderRadius": "4px",
+        "buttonRadius": "4px",
+        "cardRadius": "6px",
+        "shadowStyle": "subtle"
+      },
+      "sections": {
+        "heroStyle": "dark",
+        "sectionAlternation": [
+          "light",
+          "surface",
+          "light",
+          "surface",
+          "light"
+        ],
+        "animationStyle": "fade",
+        "spacingScale": "generous"
+      }
+    },
+    "recipeId": "roofing/heritage-craft"
+  },
+  "content": {
+    "homepage": {
+      "heroHeadline": "Nashville's Landscape Masters",
+      "heroSubline": "Crafting outdoor spaces that thrive. From design to meticulous maintenance, we're your local experts.",
+      "aboutTitle": "Dedicated to Nashville's Green Spaces",
+      "aboutText": [
+        "Green Matters Landscaping started with a simple goal: to bring exceptional landscaping services to Nashville and the surrounding areas. We're a team of passionate professionals who understand the unique challenges and opportunities of Tennessee's climate and landscape.",
+        "Our approach is rooted in collaboration and communication. We listen to your vision, assess your property's needs, and develop customized solutions that enhance its beauty and value. We prioritize sustainable practices and lasting results.",
+        "We're deeply invested in the Nashville community. From revitalizing residential gardens to maintaining commercial properties, we take pride in contributing to the city's vibrant landscape. We source local materials whenever possible and support local initiatives."
+      ],
+      "valueProps": [
+        {
+          "title": "Local Expertise",
+          "description": "We understand Nashville's unique climate, soil, and plant life. We'll craft a landscape that thrives in our environment."
+        },
+        {
+          "title": "Customized Solutions",
+          "description": "No cookie-cutter designs here. We tailor our services to your specific needs and preferences, ensuring a personalized experience."
+        },
+        {
+          "title": "Reliable Service",
+          "description": "We're committed to providing prompt, professional, and dependable service. We show up on time and get the job done right."
+        },
+        {
+          "title": "Sustainable Practices",
+          "description": "We prioritize environmentally friendly methods and materials to minimize our impact and create a healthier landscape."
+        }
+      ],
+      "ctaHeadline": "Transform Your Outdoor Space",
+      "ctaSubline": "Get a free consultation and discover the potential of your property."
+    },
+    "services": [
+      {
+        "slug": "landscape-design",
+        "name": "Landscape Design",
+        "shortDescription": "Dream it, we'll design it. Expert landscape design for stunning outdoor living.",
+        "description": "Our landscape design service is where your outdoor dreams take shape. We begin with a thorough consultation to understand your vision, lifestyle, and budget. Our experienced designers then create detailed plans that incorporate your preferences, the property's unique characteristics, and the local environment. We consider everything from plant selection and hardscaping to lighting and irrigation.\n\nWe're well-versed in Nashville's climate and soil conditions, ensuring that your landscape will thrive year-round. Whether you're looking for a tranquil garden retreat, a vibrant entertainment space, or a sustainable landscape that conserves water, we'll bring your vision to life.\n\nOur design process includes 3D renderings and detailed plant lists, so you can visualize the final result before construction begins. We work closely with you throughout the process to ensure that every detail meets your expectations. We handle all aspects of the design, from initial concept to final installation, providing you with a seamless and stress-free experience.",
+        "process": [
+          "Step 1: Initial consultation to discuss your vision and budget",
+          "Step 2: Site analysis and assessment of existing conditions",
+          "Step 3: Design development with 3D renderings and plant lists",
+          "Step 4: Final design presentation and approval"
+        ],
+        "benefits": [
+          "Increased property value",
+          "Enhanced curb appeal",
+          "Improved outdoor living space",
+          "Sustainable and environmentally friendly design"
+        ],
+        "faq": [
+          {
+            "question": "How long does the landscape design process take?",
+            "answer": "The timeline varies depending on the complexity of the project, but typically it takes 2-4 weeks from initial consultation to final design approval. We prioritize clear communication to keep the project on track."
+          },
+          {
+            "question": "What is included in the cost of landscape design?",
+            "answer": "Our landscape design fee includes the initial consultation, site analysis, design development, 3D renderings, plant lists, and final design presentation. We provide a detailed breakdown of costs upfront."
+          },
+          {
+            "question": "Do you handle the installation of the landscape design?",
+            "answer": "Yes, we offer complete landscape installation services to bring your design to life. Our experienced team handles all aspects of the installation, from grading and planting to hardscaping and irrigation."
+          }
+        ]
+      },
+      {
+        "slug": "lawn-care",
+        "name": "Lawn Care",
+        "shortDescription": "Healthy, green lawns that make your neighbors jealous. Expert lawn care services.",
+        "description": "Maintaining a healthy, vibrant lawn in Nashville's climate requires specialized knowledge and care. Our lawn care service is designed to provide your lawn with the nutrients, protection, and attention it needs to thrive. We offer a comprehensive range of services, including fertilization, weed control, aeration, overseeding, and mowing.\n\nWe use only the highest-quality products and equipment to ensure optimal results. Our experienced technicians are trained to identify and address common lawn problems, such as fungal diseases, insect infestations, and nutrient deficiencies. We tailor our treatments to the specific needs of your lawn, taking into account factors such as grass type, soil conditions, and sun exposure.\n\nWe understand the importance of regular maintenance in achieving a healthy, beautiful lawn. Our lawn care programs are designed to provide consistent care throughout the year, ensuring that your lawn remains green and lush. Let us handle the hard work so you can enjoy a beautiful lawn without the hassle.",
+        "process": [
+          "Step 1: Lawn assessment to identify specific needs",
+          "Step 2: Customized treatment plan based on assessment",
+          "Step 3: Regular fertilization and weed control applications",
+          "Step 4: Aeration and overseeding as needed"
+        ],
+        "benefits": [
+          "Healthier, greener lawn",
+          "Reduced weed growth",
+          "Improved soil health",
+          "Increased curb appeal"
+        ],
+        "faq": [
+          {
+            "question": "How often should I fertilize my lawn?",
+            "answer": "We recommend fertilizing your lawn 4-6 times per year, depending on the grass type and soil conditions. Our technicians will assess your lawn's needs and develop a customized fertilization schedule."
+          },
+          {
+            "question": "What is aeration and why is it important?",
+            "answer": "Aeration involves creating small holes in the soil to improve air circulation, water penetration, and nutrient absorption. It's particularly important for lawns with compacted soil, which is common in Nashville due to the limestone bedrock."
+          },
+          {
+            "question": "How long before I can walk on my lawn after treatment?",
+            "answer": "We recommend waiting at least 24 hours before walking on your lawn after treatment to allow the products to fully absorb into the soil. We will provide specific instructions after each application."
+          }
+        ]
+      },
+      {
+        "slug": "hardscaping",
+        "name": "Hardscaping",
+        "shortDescription": "Patios, walkways, retaining walls. Durable and beautiful hardscaping solutions.",
+        "description": "Enhance your outdoor living space with our expert hardscaping services. We specialize in creating durable and beautiful features such as patios, walkways, retaining walls, and outdoor kitchens. Our team works with a variety of materials, including pavers, natural stone, and concrete, to create custom designs that complement your home and landscape.\n\nWe understand the importance of proper installation in ensuring the longevity and stability of your hardscaping features. Our experienced craftsmen use industry-leading techniques and equipment to ensure that your project is built to last. We pay close attention to detail, ensuring that every paver is perfectly aligned and every wall is structurally sound.\n\nWhether you're looking to create a cozy outdoor seating area, a functional walkway, or a stunning retaining wall, we'll bring your vision to life with our expert hardscaping services. We handle all aspects of the project, from design and excavation to installation and finishing, providing you with a seamless and stress-free experience.",
+        "process": [
+          "Step 1: Design consultation and site assessment",
+          "Step 2: Material selection and design finalization",
+          "Step 3: Excavation and base preparation",
+          "Step 4: Installation of hardscaping features"
+        ],
+        "benefits": [
+          "Increased property value",
+          "Enhanced outdoor living space",
+          "Improved functionality and accessibility",
+          "Durable and long-lasting features"
+        ],
+        "faq": [
+          {
+            "question": "What types of materials do you use for hardscaping projects?",
+            "answer": "We work with a variety of materials, including pavers, natural stone, concrete, and brick. We can help you select the best materials for your project based on your budget, style, and durability requirements."
+          },
+          {
+            "question": "How long does it take to install a patio?",
+            "answer": "The installation time varies depending on the size and complexity of the project, but typically it takes 1-3 days to install a patio. We'll provide a more accurate timeline during the design consultation."
+          },
+          {
+            "question": "Do you offer warranties on your hardscaping work?",
+            "answer": "Yes, we offer warranties on our hardscaping work to ensure your satisfaction. The length of the warranty varies depending on the type of project and materials used. We will provide detailed warranty information before starting the project."
+          }
+        ]
+      },
+      {
+        "slug": "irrigation-systems",
+        "name": "Irrigation Systems",
+        "shortDescription": "Water-efficient irrigation systems for healthy lawns and gardens.",
+        "description": "Ensure your lawn and garden receive the water they need with our expert irrigation system services. We specialize in designing, installing, and maintaining water-efficient irrigation systems that conserve water and promote healthy plant growth. Our team works with a variety of systems, including sprinkler systems, drip irrigation, and smart controllers, to create custom solutions that meet your specific needs.\n\nWe understand the importance of proper design and installation in maximizing the efficiency of your irrigation system. Our experienced technicians will assess your property's water needs, soil conditions, and plant types to create a system that delivers the right amount of water to the right places. We use only the highest-quality components to ensure the reliability and longevity of your system.\n\nWhether you're looking to install a new irrigation system or upgrade an existing one, we'll provide you with a solution that saves water, reduces your utility bills, and keeps your landscape healthy and beautiful. We also offer maintenance and repair services to keep your system running smoothly.",
+        "process": [
+          "Step 1: Water audit and site assessment",
+          "Step 2: Irrigation system design and material selection",
+          "Step 3: Installation of irrigation components",
+          "Step 4: System testing and optimization"
+        ],
+        "benefits": [
+          "Water conservation",
+          "Reduced water bills",
+          "Healthier plants and lawn",
+          "Automated watering system"
+        ],
+        "faq": [
+          {
+            "question": "What are the benefits of a smart irrigation controller?",
+            "answer": "Smart irrigation controllers use weather data and soil moisture sensors to automatically adjust watering schedules based on actual conditions. This helps to conserve water and prevent overwatering."
+          },
+          {
+            "question": "How often should I have my irrigation system inspected?",
+            "answer": "We recommend having your irrigation system inspected at least once per year to ensure it's running efficiently and to identify any potential problems."
+          },
+          {
+            "question": "What types of irrigation systems do you install?",
+            "answer": "We install a variety of irrigation systems, including sprinkler systems, drip irrigation, and micro-sprinkler systems. We can help you select the best system for your specific needs and budget."
+          }
+        ]
+      },
+      {
+        "slug": "outdoor-lighting",
+        "name": "Outdoor Lighting",
+        "shortDescription": "Illuminate your landscape with stunning and functional outdoor lighting.",
+        "description": "Extend the beauty and usability of your outdoor space with our expert outdoor lighting services. We specialize in designing and installing stunning and functional outdoor lighting systems that enhance your landscape, improve safety, and create a welcoming atmosphere. Our team works with a variety of lighting fixtures, including path lights, spotlights, and deck lights, to create custom designs that meet your specific needs.\n\nWe understand the importance of proper lighting design in achieving the desired effect. Our experienced designers will work with you to create a lighting plan that highlights your landscape's best features, provides security lighting, and creates a warm and inviting ambiance. We use only the highest-quality fixtures and components to ensure the reliability and longevity of your system.\n\nWhether you're looking to illuminate your pathways, highlight your trees, or create a cozy outdoor seating area, we'll provide you with a lighting solution that enhances your property's beauty and functionality. We also offer maintenance and repair services to keep your system shining bright.",
+        "process": [
+          "Step 1: Lighting design consultation and site assessment",
+          "Step 2: Fixture selection and design finalization",
+          "Step 3: Installation of lighting fixtures and wiring",
+          "Step 4: System testing and optimization"
+        ],
+        "benefits": [
+          "Enhanced curb appeal",
+          "Improved safety and security",
+          "Extended outdoor living space",
+          "Increased property value"
+        ],
+        "faq": [
+          {
+            "question": "What types of outdoor lighting fixtures do you offer?",
+            "answer": "We offer a variety of outdoor lighting fixtures, including path lights, spotlights, deck lights, and wall lights. We can help you select the best fixtures for your specific needs and style."
+          },
+          {
+            "question": "What are the benefits of LED outdoor lighting?",
+            "answer": "LED outdoor lighting is energy-efficient, long-lasting, and provides a bright, consistent light. It's also more environmentally friendly than traditional lighting options."
+          },
+          {
+            "question": "How much does outdoor lighting installation cost?",
+            "answer": "The cost of outdoor lighting installation varies depending on the size and complexity of the project. We'll provide you with a detailed estimate after the lighting design consultation."
+          }
+        ]
+      },
+      {
+        "slug": "drainage-solutions",
+        "name": "Drainage Solutions",
+        "shortDescription": "Protect your property from water damage with effective drainage solutions.",
+        "description": "Nashville's heavy spring thunderstorms and the area's limestone bedrock create unique drainage challenges for homeowners. Our drainage solutions service is designed to protect your property from water damage by effectively managing runoff and preventing erosion. We offer a range of services, including French drains, surface drains, and downspout extensions, to address a variety of drainage problems.\n\nWe understand the importance of proper drainage in maintaining the structural integrity of your home and landscape. Our experienced technicians will assess your property's drainage issues and develop a customized solution that effectively manages water runoff and prevents water from pooling around your foundation. We use only the highest-quality materials and equipment to ensure the reliability and longevity of our drainage systems.\n\nWhether you're experiencing water damage in your basement, erosion on your property, or standing water in your yard, we'll provide you with a drainage solution that protects your investment and keeps your landscape healthy and beautiful. We also offer maintenance and repair services to keep your drainage system functioning properly.",
+        "process": [
+          "Step 1: Drainage assessment and site evaluation",
+          "Step 2: Design and planning of drainage solutions",
+          "Step 3: Installation of drainage systems",
+          "Step 4: Testing and optimization of drainage performance"
+        ],
+        "benefits": [
+          "Protection from water damage",
+          "Prevention of erosion",
+          "Improved property value",
+          "Healthier landscape"
+        ],
+        "faq": [
+          {
+            "question": "What is a French drain and how does it work?",
+            "answer": "A French drain is a trench filled with gravel or rock that contains a perforated pipe. It's designed to redirect surface and groundwater away from a specific area, such as a foundation or a low-lying area in your yard."
+          },
+          {
+            "question": "How do I know if I need a drainage system?",
+            "answer": "Signs that you may need a drainage system include water damage in your basement, erosion on your property, standing water in your yard, and water pooling around your foundation."
+          },
+          {
+            "question": "How much does drainage system installation cost?",
+            "answer": "The cost of drainage system installation varies depending on the size and complexity of the project. We'll provide you with a detailed estimate after the drainage assessment."
+          }
+        ]
+      }
+    ],
+    "serviceAreas": [
+      {
+        "city": "Franklin",
+        "slug": "franklin-tn",
+        "state": "TN",
+        "content": "Green Matters Landscaping is proud to offer comprehensive landscaping services to the residents and businesses of Franklin, Tennessee. From the historic downtown area with its beautiful antebellum homes to the newer developments, we understand the unique landscaping needs of this vibrant community. We offer everything from lawn care and landscape design to hardscaping and irrigation solutions, ensuring your property looks its best year-round.\n\nOur team is experienced in preserving the historical charm of Franklin's older properties while also creating modern, sustainable landscapes for new homes and businesses. We are committed to providing quality workmanship and exceptional customer service. We are also experts in dealing with the hot, humid summers of Tennessee, ensuring your landscape thrives in the local climate.",
+        "localContext": "Franklin is known for its historic downtown, antebellum homes, and hot, humid summers, requiring specific landscaping approaches.",
+        "nearbyAreas": [
+          "Brentwood",
+          "Thompson's Station",
+          "Spring Hill"
+        ]
+      },
+      {
+        "city": "Murfreesboro",
+        "slug": "murfreesboro-tn",
+        "state": "TN",
+        "content": "Green Matters Landscaping provides top-quality landscaping services to the growing community of Murfreesboro, Tennessee. With its many affordable family developments and thriving business sector, Murfreesboro presents a variety of landscaping needs. We specialize in creating beautiful and functional outdoor spaces for families and businesses alike, offering services such as lawn maintenance, landscape design, and hardscaping installations.\n\nWe understand the importance of creating outdoor spaces that are both aesthetically pleasing and practical for everyday use. Our team is dedicated to providing reliable and affordable landscaping solutions to the residents and businesses of Murfreesboro. We can help you create the perfect landscape for your family to enjoy, even through the hot, humid summers.",
+        "localContext": "Murfreesboro, a growing city with affordable family developments, experiences hot, humid summers requiring durable landscaping solutions.",
+        "nearbyAreas": [
+          "Smyrna",
+          "La Vergne",
+          "Shelbyville"
+        ]
+      },
+      {
+        "city": "Brentwood",
+        "slug": "brentwood-tn",
+        "state": "TN",
+        "content": "Green Matters Landscaping is dedicated to serving the luxury estates and wooded lots of Brentwood, Tennessee. We offer a full range of landscaping services designed to enhance the beauty and value of your property. From custom landscape design and installation to regular maintenance and seasonal clean-up, we are committed to providing exceptional service and unparalleled results.\n\nWe understand that Brentwood residents value privacy, aesthetics, and quality. Our team is experienced in working with discerning clients to create stunning outdoor spaces that reflect their individual style and preferences. We can help you achieve the landscape of your dreams, even with the challenges of the hot, humid summers.",
+        "localContext": "Brentwood features luxury estates on wooded lots and experiences hot, humid summers, requiring tailored and high-end landscaping services.",
+        "nearbyAreas": [
+          "Franklin",
+          "Nashville",
+          "Nolensville"
+        ]
+      },
+      {
+        "city": "Hendersonville",
+        "slug": "hendersonville-tn",
+        "state": "TN",
+        "content": "Green Matters Landscaping provides expert landscaping services to the residents of Hendersonville, Tennessee, including the many lakefront homes on Old Hickory Lake. We understand the unique challenges and opportunities presented by waterfront properties and are skilled in creating landscapes that are both beautiful and functional. We offer a wide range of services, including lawn care, landscape design, erosion control, and dockside landscaping.\n\nOur team is committed to providing reliable and professional service to the Hendersonville community. We understand the importance of maintaining the beauty of Old Hickory Lake and are dedicated to using environmentally friendly practices in our work. We are also experts in dealing with the hot, humid summers typical of the area.",
+        "localContext": "Hendersonville is known for its lakefront homes on Old Hickory Lake and its hot, humid summers, impacting landscaping needs and practices.",
+        "nearbyAreas": [
+          "Gallatin",
+          "Goodlettsville",
+          "White House"
+        ]
+      },
+      {
+        "city": "Nashville",
+        "slug": "nashville-tn",
+        "state": "TN",
+        "content": "Green Matters Landscaping is proud to serve the vibrant and diverse city of Nashville, Tennessee. From downtown businesses to residential neighborhoods, we offer a comprehensive range of landscaping services to meet the needs of our clients. We provide lawn care, landscape design, hardscaping, and seasonal maintenance to keep your property looking its best.\n\nWe are committed to providing quality workmanship and exceptional customer service to the residents and businesses of Nashville. Whether you're looking to enhance your curb appeal or create a relaxing outdoor oasis, our team is here to help. We understand the unique challenges and opportunities presented by the local climate and are dedicated to creating sustainable landscapes that thrive in Nashville.",
+        "localContext": "Nashville is a diverse city with a wide range of landscaping needs, from downtown businesses to residential neighborhoods.",
+        "nearbyAreas": [
+          "Brentwood",
+          "Franklin",
+          "Goodlettsville"
+        ]
+      },
+      {
+        "city": "Smyrna",
+        "slug": "smyrna-tn",
+        "state": "TN",
+        "content": "Green Matters Landscaping is delighted to offer professional landscaping services to the residents and businesses of Smyrna, Tennessee. As a growing community with diverse landscaping needs, we are equipped to handle any project, big or small. Our services include lawn care, landscape design, hardscaping, and seasonal clean-up.\n\nWe understand the importance of creating beautiful and functional outdoor spaces that enhance the value of your property. Our team is committed to providing reliable and affordable landscaping solutions to the Smyrna community. We will make sure your landscape is ready to withstand the hot, humid summers.",
+        "localContext": "Smyrna is a growing community with diverse landscaping needs, where Green Matters Landscaping provides reliable and affordable solutions.",
+        "nearbyAreas": [
+          "Murfreesboro",
+          "La Vergne",
+          "Antioch"
+        ]
+      },
+      {
+        "city": "La Vergne",
+        "slug": "la-vergne-tn",
+        "state": "TN",
+        "content": "Green Matters Landscaping is proud to provide landscaping services to the residents and businesses of La Vergne, Tennessee. We offer a variety of services, including lawn care, landscape design, hardscaping, and seasonal maintenance. Our goal is to help you create a beautiful and functional outdoor space that you can enjoy year-round.\n\nWe are committed to providing quality workmanship and exceptional customer service to the La Vergne community. We understand the unique challenges presented by the local climate and are dedicated to creating sustainable landscapes that thrive in the area. We are prepared to deal with the hot, humid summers of Tennessee.",
+        "localContext": "La Vergne benefits from Green Matters Landscaping's quality workmanship and sustainable landscaping solutions adapted to the local climate.",
+        "nearbyAreas": [
+          "Smyrna",
+          "Antioch",
+          "Nashville"
+        ]
+      },
+      {
+        "city": "Goodlettsville",
+        "slug": "goodlettsville-tn",
+        "state": "TN",
+        "content": "Green Matters Landscaping offers comprehensive landscaping services in Goodlettsville, Tennessee. We cater to residential and commercial properties, providing everything from basic lawn maintenance to full landscape design and installation. Our services include lawn mowing, fertilization, weed control, tree and shrub care, hardscaping, and seasonal cleanups.\n\nWe understand the importance of a well-maintained landscape for property value and curb appeal. Our team is dedicated to providing reliable and professional service, ensuring your outdoor space looks its best year-round. We are also familiar with the local climate and can recommend plants and landscaping techniques that thrive in the area.",
+        "localContext": "Goodlettsville benefits from Green Matters Landscaping's reliable service, tailored to enhance property value and adapt to the local climate.",
+        "nearbyAreas": [
+          "Hendersonville",
+          "Nashville",
+          "White House"
+        ]
+      }
+    ],
+    "reviews": [
+      {
+        "name": "Sarah M.",
+        "rating": 5,
+        "service": "Landscape Design",
+        "text": "Green Matters completely transformed our backyard! We had a vision for an outdoor living space, and they brought it to life. The design process was collaborative, and the installation was seamless. Highly recommend!",
+        "date": "2025-03-15"
+      },
+      {
+        "name": "Tom B.",
+        "rating": 4,
+        "service": "Lawn Care",
+        "text": "Our lawn has never looked better! Green Matters' lawn care program has made a huge difference. The technicians are knowledgeable and professional, and they always take the time to answer my questions.",
+        "date": "2024-11-20"
+      },
+      {
+        "name": "Emily K.",
+        "rating": 5,
+        "service": "Hardscaping",
+        "text": "We hired Green Matters to build a patio in our backyard, and we couldn't be happier with the results. The quality of the workmanship is outstanding, and the patio looks beautiful. It's exactly what we wanted!",
+        "date": "2024-09-01"
+      },
+      {
+        "name": "David L.",
+        "rating": 5,
+        "service": "Irrigation Systems",
+        "text": "Green Matters installed a new irrigation system for us, and it's been a game-changer. Our lawn is healthier, and we're saving water. The installation was quick and professional, and the system is easy to use.",
+        "date": "2025-01-10"
+      },
+      {
+        "name": "Jessica P.",
+        "rating": 4,
+        "service": "Outdoor Lighting",
+        "text": "We had Green Matters install outdoor lighting around our house, and it looks amazing! The lighting has enhanced the curb appeal of our home and made our backyard more inviting. The team was great to work with.",
+        "date": "2024-12-05"
+      },
+      {
+        "name": "Michael S.",
+        "rating": 5,
+        "service": "Drainage Solutions",
+        "text": "After years of dealing with water in my basement after heavy rains, Green Matters installed a French drain that solved the problem. They were professional, efficient, and the price was fair. Highly recommended!",
+        "date": "2024-08-18"
+      }
+    ],
+    "seo": {
+      "homepage": {
+        "title": "Green Matters Landscaping | Nashville, TN",
+        "description": "Nashville landscaping experts. Design, lawn care, hardscaping, irrigation & more. Serving Franklin, Brentwood, Murfreesboro & Hendersonville."
+      },
+      "about": {
+        "title": "About Us | Green Matters Landscaping",
+        "description": "Learn about Green Matters Landscaping's commitment to Nashville, our values, and our dedication to creating beautiful outdoor spaces."
+      },
+      "services": {
+        "title": "Landscaping Services | Green Matters",
+        "description": "Full-service landscaping in Nashville. Landscape design, lawn care, hardscaping, irrigation systems, drainage solutions & outdoor lighting."
+      },
+      "contact": {
+        "title": "Contact Us | Green Matters Landscaping",
+        "description": "Contact Green Matters Landscaping for a free consultation. Serving Nashville, Franklin, Brentwood, Murfreesboro, and Hendersonville, TN."
+      },
+      "reviews": {
+        "title": "Customer Reviews | Green Matters",
+        "description": "Read reviews from Green Matters Landscaping customers in Nashville. See how we've transformed outdoor spaces with our landscaping services."
+      },
+      "service-areas": {
+        "title": "Service Areas | Green Matters Landscaping",
+        "description": "Green Matters Landscaping provides professional landscaping services in Nashville, Franklin, Brentwood, Murfreesboro, and Hendersonville."
+      }
+    },
+    "companyInfo": {
+      "yearsInBusiness": 12,
+      "projectsCompleted": "800+",
+      "satisfaction": "97%",
+      "teamSize": "20+"
+    }
+  },
+  "images": {
+    "hero": "/images/hero.webp",
+    "heroResponsive": {
+      "src": "/images/hero.webp",
+      "srcset": "/images/hero-400w.webp 400w, /images/hero-800w.webp 800w, /images/hero-1200w.webp 1200w, /images/hero.webp 1376w",
+      "sizes": "100vw",
+      "width": 1376,
+      "height": 768
+    },
+    "about": "/images/about.webp",
+    "aboutResponsive": {
+      "src": "/images/about.webp",
+      "srcset": "/images/about-400w.webp 400w, /images/about-800w.webp 800w, /images/about-1200w.webp 1200w, /images/about.webp 1200w",
+      "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+      "width": 1200,
+      "height": 896
+    },
+    "services": {
+      "landscape-design": "/images/service-landscape-design.webp",
+      "lawn-care": "/images/service-lawn-care.webp",
+      "hardscaping": "/images/service-hardscaping.webp",
+      "irrigation-systems": "/images/service-irrigation-systems.webp",
+      "outdoor-lighting": "/images/service-outdoor-lighting.webp",
+      "drainage-solutions": "/images/service-drainage-solutions.webp"
+    },
+    "servicesResponsive": {
+      "landscape-design": {
+        "src": "/images/service-landscape-design.webp",
+        "srcset": "/images/service-landscape-design-400w.webp 400w, /images/service-landscape-design-800w.webp 800w, /images/service-landscape-design-1200w.webp 1200w, /images/service-landscape-design.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "lawn-care": {
+        "src": "/images/service-lawn-care.webp",
+        "srcset": "/images/service-lawn-care-400w.webp 400w, /images/service-lawn-care-800w.webp 800w, /images/service-lawn-care-1200w.webp 1200w, /images/service-lawn-care.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "hardscaping": {
+        "src": "/images/service-hardscaping.webp",
+        "srcset": "/images/service-hardscaping-400w.webp 400w, /images/service-hardscaping-800w.webp 800w, /images/service-hardscaping-1200w.webp 1200w, /images/service-hardscaping.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "irrigation-systems": {
+        "src": "/images/service-irrigation-systems.webp",
+        "srcset": "/images/service-irrigation-systems-400w.webp 400w, /images/service-irrigation-systems-800w.webp 800w, /images/service-irrigation-systems-1200w.webp 1200w, /images/service-irrigation-systems.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "outdoor-lighting": {
+        "src": "/images/service-outdoor-lighting.webp",
+        "srcset": "/images/service-outdoor-lighting-400w.webp 400w, /images/service-outdoor-lighting-800w.webp 800w, /images/service-outdoor-lighting-1200w.webp 1200w, /images/service-outdoor-lighting.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "drainage-solutions": {
+        "src": "/images/service-drainage-solutions.webp",
+        "srcset": "/images/service-drainage-solutions-400w.webp 400w, /images/service-drainage-solutions-800w.webp 800w, /images/service-drainage-solutions-1200w.webp 1200w, /images/service-drainage-solutions.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      }
+    },
+    "gallery": [
+      "/images/gallery-0.webp",
+      "/images/gallery-1.webp"
+    ],
+    "galleryResponsive": [
+      {
+        "src": "/images/gallery-0.webp",
+        "srcset": "/images/gallery-0-400w.webp 400w, /images/gallery-0-800w.webp 800w, /images/gallery-0-1200w.webp 1200w, /images/gallery-0.webp 1200w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1200,
+        "height": 896
+      },
+      {
+        "src": "/images/gallery-1.webp",
+        "srcset": "/images/gallery-1-400w.webp 400w, /images/gallery-1-800w.webp 800w, /images/gallery-1-1200w.webp 1200w, /images/gallery-1.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      }
+    ]
+  }
+}
